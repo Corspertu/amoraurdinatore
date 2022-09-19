@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=Mairie Bastia
-Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=olpbmdmlboglohpgeghccfdbeacmpfac
-Icon=chrome-olpbmdmlboglohpgeghccfdbeacmpfac-Default
-StartupWMClass=crx_olpbmdmlboglohpgeghccfdbeacmpfac
