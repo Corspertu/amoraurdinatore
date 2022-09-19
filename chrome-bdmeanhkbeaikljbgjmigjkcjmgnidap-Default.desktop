@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=Caf.fr
-Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=bdmeanhkbeaikljbgjmigjkcjmgnidap
-Icon=chrome-bdmeanhkbeaikljbgjmigjkcjmgnidap-Default
-StartupWMClass=crx_bdmeanhkbeaikljbgjmigjkcjmgnidap
