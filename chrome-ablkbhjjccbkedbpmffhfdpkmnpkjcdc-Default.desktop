@@ -1,9 +1,14 @@
 #!/usr/bin/env xdg-open
+
 [Desktop Entry]
 Version=1.0
 Terminal=false
 Type=Application
-Name=E2C Corsica – École de la 2e Chance Bastia
+Name=E2C Corsica
 Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=ablkbhjjccbkedbpmffhfdpkmnpkjcdc
 Icon=chrome-ablkbhjjccbkedbpmffhfdpkmnpkjcdc-Default
 StartupWMClass=crx_ablkbhjjccbkedbpmffhfdpkmnpkjcdc
+Name[fr_FR]=E2C Corse
+Comment=
+Path=
+StartupNotify=false
