@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Pôle Emploi
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=pkidiciaijdghllefpejmhkcokoklmlo
+Icon=chrome-pkidiciaijdghllefpejmhkcokoklmlo-Default
+StartupWMClass=crx_pkidiciaijdghllefpejmhkcokoklmlo

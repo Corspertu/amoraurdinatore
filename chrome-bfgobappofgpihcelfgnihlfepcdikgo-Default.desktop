@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Collectivité de Corse
+Exec=/usr/bin/chromium-browser --profile-directory=Default --app-id=bfgobappofgpihcelfgnihlfepcdikgo
+Icon=chrome-bfgobappofgpihcelfgnihlfepcdikgo-Default
+StartupWMClass=crx_bfgobappofgpihcelfgnihlfepcdikgo
